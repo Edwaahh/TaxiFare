@@ -28,6 +28,7 @@ To run the program
   2. The input will be as follows
       a. a request (an integer to indicate the distance of the journey, an integer to indicate how many pax and the time in 24hours format
       b. the car (a string to indicate type of car, a string to indicate the carplate number and an integer to indicate how far away)
+  3. end the program with ctrl d
       
  A sample input and output will be included as a screenshot in the folder labelled 'demo'.
     
